@@ -102,7 +102,6 @@ public class AppTest {
 
 	@Test
 	public void testMoreCallsThanThreadWithEnoughEmployees() {
-
 		Operator opp = new Operator(18, "Juana", "Hermida");
 		Manager mann = new Manager(19, "Ezequiel", "Gutierrez");
 
